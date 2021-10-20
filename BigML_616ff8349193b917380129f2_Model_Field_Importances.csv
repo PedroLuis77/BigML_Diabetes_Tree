@@ -1,0 +1,9 @@
+Field,Importance
+Glucose,0.30665
+BMI,0.24603
+Age,0.15342
+Diabetes pedigree,0.1059
+Pregnancies,0.08066
+Blood pressure,0.03951
+Skinfold,0.03633
+Insulin,0.03151
